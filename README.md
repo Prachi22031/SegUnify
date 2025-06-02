@@ -23,7 +23,7 @@
 
 ```
 # git clone this repository
-git clone https://github.com/EkanshJuneja27/SegUnify.git
+git clone https://github.com/Prachi22031/SegUnify.git
 cd SegUnify
 
 # create new anaconda env

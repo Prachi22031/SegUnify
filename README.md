@@ -11,7 +11,7 @@
     <sup>2</sup>ekansh.20004@gmail.com&emsp; 
 </div>
 
-<img src="assets/Model.jpg" width="700px"/>
+<img src="Model.jpg" width="700px"/>
 
 </div>
 
@@ -69,6 +69,6 @@ python eval_segmentation.py
 
 <div align="center">
 
-<img src="assets/Output.jpg" width="400px"/>
+<img src="Output.jpg" width="400px"/>
 
 </div>
